@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ocit-article-writer/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ocit-article-writer/static/js/main.315eb81b.chunk.js",
+    "main.js.map": "/ocit-article-writer/static/js/main.315eb81b.chunk.js.map",
+    "runtime~main.js": "/ocit-article-writer/static/js/runtime~main.8dfd6a9b.js",
+    "runtime~main.js.map": "/ocit-article-writer/static/js/runtime~main.8dfd6a9b.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/ocit-article-writer/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.4504f77f.chunk.js": "/ocit-article-writer/static/js/2.4504f77f.chunk.js",
+    "static/js/2.4504f77f.chunk.js.map": "/ocit-article-writer/static/js/2.4504f77f.chunk.js.map",
+    "index.html": "/ocit-article-writer/index.html",
+    "precache-manifest.4cd76412fc5fb8ffb90baa0bd6a3a085.js": "/ocit-article-writer/precache-manifest.4cd76412fc5fb8ffb90baa0bd6a3a085.js",
+    "service-worker.js": "/ocit-article-writer/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/ocit-article-writer/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/ocit-article-writer/static/css/main.2cce8147.chunk.css.map"
+  }
+}
