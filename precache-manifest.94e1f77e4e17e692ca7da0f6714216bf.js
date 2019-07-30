@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52a66655dae752f596426a6fd6c0910b",
+    "revision": "16495f1a11745b17093250c61665462a",
     "url": "/ocit-article-writer/index.html"
   },
   {
