@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd72242cee1516c7a5493bdf301bac56",
+    "revision": "3c1bf94edb6d0291f1277a8970a5d851",
     "url": "/ocit-article-writer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ocit-article-writer/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "2725e02c3229e9ed578b",
+    "revision": "b2e45be02943101e5904",
     "url": "/ocit-article-writer/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ocit-article-writer/static/js/2.4504f77f.chunk.js"
   },
   {
-    "revision": "2725e02c3229e9ed578b",
-    "url": "/ocit-article-writer/static/js/main.f304cf1d.chunk.js"
+    "revision": "b2e45be02943101e5904",
+    "url": "/ocit-article-writer/static/js/main.df698075.chunk.js"
   },
   {
     "revision": "2307620ae1f0e8de967c",
