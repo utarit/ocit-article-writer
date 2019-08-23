@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ocit-article-writer/precache-manifest.793eae3db144713897fb546976dc50a1.js"
+  "/ocit-article-writer/precache-manifest.0ad31ef21e4ede949d642bbe99021e30.js"
 );
 
 self.addEventListener('message', (event) => {
