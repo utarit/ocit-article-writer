@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ocit-article-writer/static/css/main.2cce8147.chunk.css",
-    "main.js": "/ocit-article-writer/static/js/main.ab56e1e8.chunk.js",
-    "main.js.map": "/ocit-article-writer/static/js/main.ab56e1e8.chunk.js.map",
+    "main.js": "/ocit-article-writer/static/js/main.37723f61.chunk.js",
+    "main.js.map": "/ocit-article-writer/static/js/main.37723f61.chunk.js.map",
     "runtime~main.js": "/ocit-article-writer/static/js/runtime~main.8dfd6a9b.js",
     "runtime~main.js.map": "/ocit-article-writer/static/js/runtime~main.8dfd6a9b.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/ocit-article-writer/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.4504f77f.chunk.js": "/ocit-article-writer/static/js/2.4504f77f.chunk.js",
-    "static/js/2.4504f77f.chunk.js.map": "/ocit-article-writer/static/js/2.4504f77f.chunk.js.map",
+    "static/css/2.f3ee6751.chunk.css": "/ocit-article-writer/static/css/2.f3ee6751.chunk.css",
+    "static/js/2.22bcf400.chunk.js": "/ocit-article-writer/static/js/2.22bcf400.chunk.js",
+    "static/js/2.22bcf400.chunk.js.map": "/ocit-article-writer/static/js/2.22bcf400.chunk.js.map",
     "index.html": "/ocit-article-writer/index.html",
-    "precache-manifest.0c5c6cab35a549efd7813dfd598855ff.js": "/ocit-article-writer/precache-manifest.0c5c6cab35a549efd7813dfd598855ff.js",
+    "precache-manifest.793eae3db144713897fb546976dc50a1.js": "/ocit-article-writer/precache-manifest.793eae3db144713897fb546976dc50a1.js",
     "service-worker.js": "/ocit-article-writer/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/ocit-article-writer/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/2.f3ee6751.chunk.css.map": "/ocit-article-writer/static/css/2.f3ee6751.chunk.css.map",
     "static/css/main.2cce8147.chunk.css.map": "/ocit-article-writer/static/css/main.2cce8147.chunk.css.map"
   }
 }
